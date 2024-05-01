@@ -17,7 +17,7 @@
 🎓 &nbsp;I studied Software Development and continue learning new technologies.\
 ✍️ &nbsp;I am fond of studying science, statistics and information management.\
 ✉️ &nbsp;You can contact me at my email gerardoddat@gmail.com for any business.\
-📄 &nbsp;See my resume for more details.[Descargar CV](files/CV2024_ChipanaV7.pdf)
+📄 &nbsp;See my resume for more details.[Descargar CV](CV2024_ChipanaV7.pdf)
 
 ### 🛠 &nbsp;Tech Stack
 
