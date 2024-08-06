@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/-Gerardo M Chipana-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:gerardoddat@gmail.com">
 <img src="https://img.shields.io/badge/-gerardoddat@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/gmch_25"><img src="https://img.shields.io/badge/-@gmch_25-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<!-- <a href="https://www.instagram.com/gmch_25"><img src="https://img.shields.io/badge/-@gmch_25-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> -->
 </p>
 
 ### 👨🏻‍💻 &nbsp;About Me
