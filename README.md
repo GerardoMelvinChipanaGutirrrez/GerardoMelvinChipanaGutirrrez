@@ -1,6 +1,6 @@
 ## 👋 &nbsp;Hey there! I'm Gerardo Dev
 
-<img alt="Banner" src="/files/banner-pr.png"/>
+<img alt="Banner" src="/files/Gerard DEV (1).png"/>
 
 <p align="center">
 
