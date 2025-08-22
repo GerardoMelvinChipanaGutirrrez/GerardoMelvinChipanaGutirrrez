@@ -17,15 +17,16 @@
 🎓 &nbsp;I studied Software Development and continue learning new technologies.\
 ✍️ &nbsp;I am fond of studying science, statistics and information management.\
 ✉️ &nbsp;You can contact me at my email gerardoddat@gmail.com for any business.\
-📄 &nbsp;See my resume for more details.[Descargar CV](https://drive.google.com/file/d/1pTgI3sCWFFhVmqA7jhzB_aPOwhqNXgmz/view?usp=sharing)
+<!--📄 &nbsp;See my resume for more details.[Descargar CV](https://drive.google.com/file/d/1pTgI3sCWFFhVmqA7jhzB_aPOwhqNXgmz/view?usp=sharing)-->
 
 ### 🛠 &nbsp;Tech Stack
 
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Php](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Django](https://img.shields.io/badge/-Python-05122A?style=flat&logo=django)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
